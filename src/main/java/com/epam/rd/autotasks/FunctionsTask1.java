@@ -36,7 +36,6 @@ class FunctionsTask1 {
        catch (NullPointerException e) {
            return false;
        }
-
        return false;
    }
 }
