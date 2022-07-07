@@ -8,6 +8,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class FunctionsTask1Test {
 
+
+
     @Test
     public void testArrayIsSortedByAsc() {
         assertTrue(FunctionsTask1.isSorted(new int[] {1, 2, 3, 4, 5}, SortOrder.ASC));
